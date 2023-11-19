@@ -1,0 +1,1 @@
+# Development-of-Drought-Severity-Index-Using-Spectral-Indices-and-Python
